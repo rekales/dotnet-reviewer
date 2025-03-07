@@ -38,7 +38,7 @@ nav_order: 4
 [expression] - [expression]
 [expression] * [expression]
 [expression] / [expression] 'Float division
-[expression] / [expression] 'Integer division
+[expression] \ [expression] 'Integer division
 [expression] MOD [expression]
 ```
 
@@ -169,6 +169,7 @@ End Using
 **cmd.ExecuteNonQuery()**  
 - for procedures that doesn't return data (i.e. INSERT)  
 **cmd.ExecuteQuery()**  
+- for procedures that does return data (i.e. SELECT)  
 **cmd.ExecuteScalar()**  
 - if returning one row and one column  
 
