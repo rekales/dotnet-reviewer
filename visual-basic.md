@@ -1,5 +1,6 @@
 ---
 title: VB.NET Reviewer Guide
+layout: home
 nav_order: 4
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: SQL Server Reviewer Guide
+layout: home
 nav_order: 3
 ---
 
