@@ -6,3 +6,5 @@ url: https://rekales.github.io/dotnet-reviewer/
 
 aux_links:
   Template Repository: https://github.com/rekales/dotnet-reviewer
+
+nav_order: true
