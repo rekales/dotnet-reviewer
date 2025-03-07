@@ -165,9 +165,11 @@ End Using
 
 ### SqlCommand methods
 **cmd.Parameters.AddWithValue([stringParameter], [value])**  
-- for adding values to parameters
+- for adding values to parameters  
 **cmd.ExecuteNonQuery()**  
-- for procedures that doesn't return data (i.e. INSERT)
+- for procedures that doesn't return data (i.e. INSERT)  
 **cmd.ExecuteQuery()**  
 **cmd.ExecuteScalar()**  
-- if returning one row and one column
+- if returning one row and one column  
+
+## Still Under Construction
